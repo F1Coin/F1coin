@@ -1,0 +1,9 @@
+Building F1Coin
+
+See doc/readme-qt.rst for instructions on building f1coin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of F1Coin.
+
+See doc/build-*.txt for instructions on building f1coin,
+the intended-for-services, no-graphical-interface, reference
+implementation of F1Coin.
